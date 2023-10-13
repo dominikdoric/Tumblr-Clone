@@ -1,0 +1,19 @@
+{
+  "appName": "Application Tumblr",
+  "detailBlogTitle": "Titre du blog : ",
+  "detailBlogUrl": "URL du blog : ",
+  "detailDatetime": "Date et heure : ",
+  "home": "accueil",
+  "favorite": "favori",
+  "detail": "détail",
+  "favoritePosts": "Publications favorites",
+  "homeScreen": "Écran d'accueil",
+  "blogName": "nomDuBlog",
+  "postUrl": "urlDeLaPublication",
+  "photoUrl": "urlDeLaPhoto",
+  "dateFormat": "dd-MM-yyyy",
+  "deletingItem": "Suppression de l'élément",
+  "deleteConfirmation": "Êtes-vous sûr de vouloir supprimer cet élément ?",
+  "cancel": "Annuler",
+  "confirm": "Confirmer"
+}

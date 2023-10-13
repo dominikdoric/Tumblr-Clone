@@ -1,0 +1,19 @@
+{
+  "appName": "Tumblr application",
+  "detailBlogTitle": "Blog title: ",
+  "detailBlogUrl": "Blog url: ",
+  "detailDatetime": "Datetime: ",
+  "home": "home",
+  "favorite": "favorite",
+  "detail": "detail",
+  "favoritePosts": "Favorite posts",
+  "homeScreen": "Home screen",
+  "blogName": "blogName",
+  "postUrl": "postUrl",
+  "photoUrl": "photoUrl",
+  "dateFormat": "dd-MM-yyyy",
+  "deletingItem": "Deleting item",
+  "deleteConfirmation": "Are you sure you want to delete item?",
+  "cancel": "Cancel",
+  "confirm": "Confirm"
+}

@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - Shake (16.1.1)
+  - shake_flutter (0.0.1):
+    - Flutter
+    - Shake (~> 16.1.0-rc)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - shake_flutter (from `.symlinks/plugins/shake_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Shake
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  shake_flutter:
+    :path: ".symlinks/plugins/shake_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  Shake: 7f66572d94aee9143f1cd8e18046dec7da6c9439
+  shake_flutter: 00074d84434c541a8035c1bbfd46788e24d36d2b
+
+PODFILE CHECKSUM: e840dd57ba2b03bcb6fdba293a27c5f82151a80a
+
+COCOAPODS: 1.11.2
